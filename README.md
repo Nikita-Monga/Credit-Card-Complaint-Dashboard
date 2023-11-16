@@ -1,0 +1,4 @@
+# Credit-Card-Complaint-Dashboard
+Credit Card Complaint Dashboard on Tableau. 
+A credit card complaint dashboard is a digital tool that provides an overview of complaints related to credit cards. The dashboard typically includes various metrics, such as the number of complaints received, the types of complaints, the time it takes to resolve complaints, and the satisfaction rate of customers. It can also provide detailed information on individual complaints, including the date, the type of complaint, and the status of the complaint It may also allow users to track the progress of complaints and to communicate with customers directly through the dashboard.Overall, a credit card complaint dashboard is a valuable tool that helps organizations to identify areas of improvement, improve customer satisfaction, and ensure compliance with regulations.
+Please do comment...your suggestions are most welcome and it will be helpfull to reduce mistakes.
